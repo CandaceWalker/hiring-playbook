@@ -4,15 +4,7 @@ A practical playbook for structured, fair, and fast hiring, from intake to offer
 
 A practical, end-to-end playbook for running structured, fair, and fast hiring, from the first intake meeting to the offer call. Built from years of in-house recruiting and designed so any recruiting team can adopt it.
 
-## The playbook
 
-| Step | File | What it covers |
-|---|---|---|
-| 1 | [`1-intake.md`](1-intake.md) | Intake questions, defining the bar, and service-level agreements |
-| 2 | [`2-interview-loop.md`](2-interview-loop.md) | Designing a structured loop where every must-have gets assessed |
-| 3 | [`3-scorecard.md`](3-scorecard.md) | A 4-point scorecard and how to write evidence, not impressions |
-| 4 | [`4-debrief.md`](4-debrief.md) | A 25-minute debrief agenda that ends with a decision |
-| 5 | [`5-candidate-communication.md`](5-candidate-communication.md) | Communication standards and ready-to-use templates |
 
 ## The principles behind it
 1. **Define "great" before you start.** Most stalled searches trace back to an unclear bar.
